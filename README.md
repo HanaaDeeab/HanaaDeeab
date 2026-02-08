@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Hanaa
 
-<!--
-**HanaaDeeab/HanaaDeeab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & Artificial Intelligence graduate  
+Based in Syria | Open to remote opportunities  
 
-Here are some ideas to get you started:
+I build data-driven solutions with a strong focus on:
+- Data cleaning and exploratory data analysis (EDA)
+- Machine learning models for classification and regression
+- Turning data into clear insights and actionable conclusions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Technologies:
+- Python (Pandas, NumPy, Scikit-learn)
+- Data visualization (Matplotlib, Seaborn, Power BI)
+- SQL (basic querying and analysis)
+- Jupyter Notebook, Git
+
+Currently:
+- Building a structured data science portfolio
+- Working on real-world datasets and end-to-end ML projects
+- Strengthening my skills in data analysis and modeling
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/hanaa-diab-239132375/
